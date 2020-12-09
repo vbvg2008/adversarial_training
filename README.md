@@ -1,4 +1,5 @@
-# adversarial_training
+# Adversarial Training
+This repository is a implementation of FGSM attack adversarial training proposed by paper [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572).
 
 
 ## Prerequisites:
